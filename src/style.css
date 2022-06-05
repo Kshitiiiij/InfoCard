@@ -138,7 +138,7 @@ footer {
     height: 64px;
     display: flex;
     justify-content: center;
-    column-gap: 100px;
+    column-gap: 90px;
 }
 
 footer > img {
