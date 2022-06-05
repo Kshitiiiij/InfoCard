@@ -1,0 +1,146 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #23252c;
+}
+.container {
+  margin: 50px auto;
+  color: #ffffff;
+  background-color: #1a1b21;
+  width: 400px;
+  border-radius: 10px;
+}
+.info--image{
+    border-radius: 2%;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+}
+.namecontain {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.name {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+}
+.role {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12.8px;
+  line-height: 15px;
+  text-align: center;
+  color: #f3bf99;
+  padding: 3px 3px;
+}
+
+.website {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+}
+
+.email {
+  /* Auto layout */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+  gap: 8px;
+
+  width: 115px;
+  height: 34px;
+  left: 151px;
+  top: 468px;
+
+  /* white */
+  margin-right: 20;
+}
+
+.linkedin {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+
+  width: 115px;
+  height: 34px;
+  left: 151px;
+
+  background: #5093e2;
+  border-radius: 6px;
+  border-color: #5093e2;
+  color: white;
+}
+.button-align {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.fookingh1, .fookingh1again{
+    width: 242.71px;
+height: 21px;
+left: 152px;
+top: 535px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+
+}
+
+.fookingp, .fookingpagain{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 150%;
+
+
+color: #DCDCDC;
+padding-top: 5;
+padding-bottom: 10;
+}
+
+.about{
+    margin-left: 33;
+    margin-right: 45;
+    padding-top: 15;
+    padding-bottom: 10;
+}
+footer {
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+    height: 64px;
+    display: flex;
+    justify-content: center;
+    column-gap: 100px;
+}
+
+footer > img {
+    width: 30px;
+}
