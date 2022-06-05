@@ -1,4 +1,5 @@
-/home/kshitij/Downloads/Screenshot 2022-06-05 at 19-59-43 Screenshot.png
+
+![Screenshot 2022-06-05 at 19-59-43 Screenshot](https://user-images.githubusercontent.com/102326095/172055887-827eae86-b812-464b-9875-2611323c7091.png)
 
 
 # Getting Started with Create React App
